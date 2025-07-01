@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20250701-1714-Experimental"
+	Name="DESKTOP-HLRP1VJ"
+	Generator="ctest-3.31.6"
+	CompilerName="/usr/sbin/c++"
+	CompilerVersion="15.1.1"
+	OSName="Linux"
+	Hostname="DESKTOP-HLRP1VJ"
+	OSRelease="6.6.87.1-microsoft-standard-WSL2"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Mon Apr 21 17:08:54 UTC 2025"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="145"
+	ModelName="AMD Custom APU 0932"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2048"
+	TotalPhysicalMemory="7360"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2800.02"
+	>
+	<Testing>
+		<StartDateTime>Jul 01 19:34 CEST</StartDateTime>
+		<StartTestTime>1751391282</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 01 19:34 CEST</EndDateTime>
+		<EndTestTime>1751391282</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

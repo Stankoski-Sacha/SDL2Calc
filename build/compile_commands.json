@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/balls/cpp/SDL2Calc/build",
+  "command": "/usr/sbin/c++  -isystem /usr/local/include/SDL2 -g -o CMakeFiles/calc.dir/main.cpp.o -c /home/balls/cpp/SDL2Calc/main.cpp",
+  "file": "/home/balls/cpp/SDL2Calc/main.cpp",
+  "output": "CMakeFiles/calc.dir/main.cpp.o"
+},
+{
+  "directory": "/home/balls/cpp/SDL2Calc/build",
+  "command": "/usr/sbin/c++  -isystem /usr/local/include/SDL2 -g -o CMakeFiles/calc.dir/init.cpp.o -c /home/balls/cpp/SDL2Calc/init.cpp",
+  "file": "/home/balls/cpp/SDL2Calc/init.cpp",
+  "output": "CMakeFiles/calc.dir/init.cpp.o"
+}
+]
